@@ -1,0 +1,52 @@
+.banner {
+    background: url("https://media2.giphy.com/media/BHNfhgU63qrks/giphy.gif")
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff
+}
+
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 100px;
+    margin: auto;
+    height: 100px;
+    color:#fff;
+    background-color:blue;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 20px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.lingkar {
+    display: inline-block;
+    border-radius: 50%;
+    width: 100px;
+    margin: auto;
+    height: 100px;
+    color:#fff;
+    background-color:red; 
+}
+
+.lingkar i {
+    position: relative;
+    top: 20px;
+}
+
+.contact {
+    background: url("https://previews.123rf.com/images/sdecoret/sdecoret1707/sdecoret170700720/82022968-hand-drawn-contacts-and-emails-sketch-on-black-background.jpg")
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 0.100%;
+    padding-bottom: 0.100%;
+    color: white
+}
